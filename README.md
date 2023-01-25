@@ -12,7 +12,7 @@ Projeto de um registrador de hábitos através do evento NLW Setup da Rocketseat
 <br>
 
 <p align="center">
-  <img alt="projeto nomeProjeto" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Habits Tracker!" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
